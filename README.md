@@ -24,7 +24,6 @@
     <a href="https://github.com/pablomagalhaes/ecoleta">
       <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=pablomagalhaes&repo=ecoleta" />
     </a>
-    <br /><br />
     <a href="https://github.com/pablomagalhaes/be-the-hero">
       <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=pablomagalhaes&repo=be-the-hero" />
     </a>
