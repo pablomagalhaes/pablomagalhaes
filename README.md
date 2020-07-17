@@ -7,6 +7,10 @@
     <p>
       - ☕ Also, i'm a coffee person  
     </p> 
+    <br />
+    <p>
+      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-      square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagomagalhaesme/)](https://www.linkedin.com/in/thiagomagalhaesme/)
+    </p>  
     <br /> Sou um desenvolvedor web sênior entusiasmado e motivado. Tenho experiência em HTML (5), CSS (3), Sass, Javascript, React JS, Redux, Saga, Node JS, GitHub, Bootstrap, Angular, PHP e Python.
     <br /><br />
     :rocket: Linguagens e Frameworks
