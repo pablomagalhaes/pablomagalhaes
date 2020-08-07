@@ -2,12 +2,12 @@
   <samp>
      Olá, eu sou o <a href="https://www.linkedin.com/in/thiagomagalhaesme/"> Thiago Magalhães </a> :wave:
     <br />
-    <br /> I’m an enthusiastic and self-motivated Senior Web Developer. I have experience in HTML(5), CSS(3), Sass, Javascript, React JS, Redux, Saga, Node JS, GitHub, Bootstrap, Angular, PHP and Python.
+    <br /> I’m an enthusiastic and self-motivated Senior Web Developer. I have experience in HTML(5), CSS(3), Sass, Javascript, ReactJS, Redux, NodeJS, PHP and Python.
     <br />
     <p>
       - ☕ Also, i'm a coffee person  
     </p> 
-    <br /> Sou um desenvolvedor web sênior entusiasmado e motivado. Tenho experiência em HTML (5), CSS (3), Sass, Javascript, React JS, Redux, Saga, Node JS, GitHub, Bootstrap, Angular, PHP e Python.
+    <br /> Sou um desenvolvedor web sênior entusiasmado e motivado. Tenho experiência em HTML (5), CSS (3), Sass, Javascript, ReactJS, Redux, NodeJS, PHP e Python.
     <br /><br />
     :rocket: Linguagens e Frameworks
     <br /><br />
