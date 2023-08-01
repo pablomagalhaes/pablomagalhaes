@@ -1,9 +1,12 @@
 <p>
   <samp>
-     Olá, eu sou o <a href="https://www.linkedin.com/in/thiagomagalhaesme/"> Thiago Magalhães </a> :wave:
+     👋🏻 Hey there! I'm a Software Engineer(Front-End) <a href="https://www.linkedin.com/in/thiagomagalhaesme/"> Thiago Magalhães </a> :wave:
     <br />
-    <br /> I’m an enthusiastic and self-motivated Senior Web Developer. I have experience in Javascript, ReactJS, Redux, NodeJS, HTML(5), CSS(3), Sass, PHP and Python.
+    <br /> who's really into TypeScript/JavaScript, React, Next.js, GraphQL and everything else that comes with it like React Native, Node.js.         I'm always on the lookout for the latest tools and tech in the industry, so I can keep delivering awesome, top-notch solutions that go           beyond what's expected.
     <br />
+     <br />
+    I actively participate in open-source projects, engaging in discussions to enhance ongoing tasks and contributing to the community by     submitting pull requests. I'm always eager to collaborate and help drive improvements in these collaborative environments.
+     <br />
     <p>
       - ☕ Also, i'm a coffee person  
     </p> 
