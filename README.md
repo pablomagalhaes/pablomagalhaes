@@ -7,11 +7,12 @@
      <br />
     I actively participate in open-source projects, engaging in discussions to enhance ongoing tasks and contributing to the community by     submitting pull requests. I'm always eager to collaborate and help drive improvements in these collaborative environments.
      <br />
+     <br />
+    ['React' / 'React Native' / 'Nodejs' / 'NestJS' / 'NextJs' e 'Vue'].
+    <br />
     <p>
       - ☕ Also, i'm a coffee person  
     </p> 
-    <br /> Sou um desenvolvedor web sênior entusiasmado e motivado. Tenho experiência em HTML (5), CSS (3), Sass, Javascript, ReactJS, Redux, NodeJS, PHP e Python.
-    <br /><br />
     :rocket: Linguagens e Frameworks
     <br /><br />
     <br /><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
