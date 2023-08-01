@@ -1,6 +1,6 @@
 <p>
   <samp>
-     👋🏻 Hey there! I'm a Software Engineer(Front-End) <a href="https://www.linkedin.com/in/thiagomagalhaesme/"> Thiago Magalhães </a> :wave:
+     👋🏻 Hey there! I'm a Software Engineer(Front-End) <a href="https://www.linkedin.com/in/thiagomagalhaesme/"> Thiago Magalhães </a>
     <br />
     <br /> who's really into TypeScript/JavaScript, React, Next.js, GraphQL and everything else that comes with it like React Native, Node.js.         I'm always on the lookout for the latest tools and tech in the industry, so I can keep delivering awesome, top-notch solutions that go           beyond what's expected.
     <br />
